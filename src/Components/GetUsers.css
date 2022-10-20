@@ -1,0 +1,14 @@
+.flex-card{
+    max-width: 25%;
+    min-width: 25%;
+    margin: 30px 20px;
+}
+
+.info{
+    margin-left: 30px;
+    font-weight: 600;
+}
+
+.value{
+    color: rgb(210, 125, 20);
+}
